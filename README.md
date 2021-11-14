@@ -8,7 +8,7 @@
 ## 📚 About Me:
 <a href="https://github.com/SABERGLOW/"><img align="right" width="310" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
    - 🎓 I'm studying Computer Science Engineering at UNI, Nicaragua. I'm expecting to graduate in 2022.
-  - 🚀 I'm working on improving my project <a href = "https://github.com/jess232017/SensorTemperatura"> STC-UNI</a> which is a service to record attendeces and temperature at the moment to get in UNI Campus and it's <a href="https://stc-uni.netlify.app/">Web Application</a>.
+  - 🚀 I'm working on improving my project <a href = "https://github.com/jess232017/SensorTemperatura"> STC-UNI</a> which is a service to sell items and manage its inventory and it's <a href="https://tiendajs-admin.netlify.app/">Web Application</a>.
   - 📧 You can reach me at: jess232016@gmail.com
 
 <p>&nbsp;</p>
@@ -26,9 +26,9 @@
 <p align="center">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/> 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjvwxd-b25523cb-c1c0-4716-8e55-3efdc015abef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGp2d3hkLWIyNTUyM2NiLWMxYzAtNDcxNi04ZTU1LTNlZmRjMDE1YWJlZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.78tZSYZMHR4zWvx9nAu-JvXy-nPKCwMmxdBePKEvB08" alt="vs" width="48" height="48"/> 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b5e7dcc-db45-4acb-8078-4f1e40191fe1/dbfye6x-ee5cf816-da93-4428-8cc6-e388e0b45136.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWI1ZTdkY2MtZGI0NS00YWNiLTgwNzgtNGYxZTQwMTkxZmUxXC9kYmZ5ZTZ4LWVlNWNmODE2LWRhOTMtNDQyOC04Y2M2LWUzODhlMGI0NTEzNi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ._0zGB33NIE1jhC583GLDwygXr5jsMVwfCaEtBWtWNt0" alt="IDEA" width="48" height="48"/> 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png/v1/fill/w_512,h_512,strp/honeycomb_icon_pycharm_by_mauriliosm_dccudp7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8yMTdkNWVhMC02MjNkLTQwYjEtOWIzMS0wMjdiOTA0YTVmMTVcL2RjY3VkcDctM2EyOWZmZDUtNGU4NS00MTIzLTg4Y2MtNGU5NDhiZWRkN2MxLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.H8trsVIaTWNWAe_KnDtr1GN7tt8V8S3ANzAGW1MG2Bs" alt="PyCharm" width="48" height="48"/> 
-<img src="https://preview.redd.it/9j29mcwvdv921.png?width=512&format=png&auto=webp&s=df03e5e15a395b099581ce25b88c6470a28c0c8f" alt="photoshop" width="48" height="48"/> 
+<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="48" height="48"/> 
+<img src="https://digibuc.com/cursos/wp-content/uploads/2019/06/3420e571b3d7a4a348d8fad91e3bfda4.png" alt="JQuery" width="48" height="48"/> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABootstrap_logo.svg&psig=AOvVaw17RTlhhjGhUiDMFWlInFd_&ust=1636941305511000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiTjNvflvQCFQAAAAAdAAAAABAD" alt="Bootstrap" width="48" height="48"/> 
 <img src="https://preview.redd.it/z3xmza38ev921.png?width=512&format=png&auto=webp&s=39d0ca955e2a4cc678b415453e7f63b06c2ea6a7" alt="lightroom" width="48" height="48"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/3dsMax.png" alt="3dsMax" width="48" height="48"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Azure%20DevOps.png" alt="AzureDevOps" width="48" height="48"/> 
