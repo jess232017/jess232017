@@ -6,41 +6,51 @@
 <p>&nbsp;</p>
 
 ## 📚 About Me:
-<a href="https://github.com/SABERGLOW/"><img align="right" width="310" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+<a href="https://github.com/jess232017/"><img align="right" width="310" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
    - 🎓 I'm studying Computer Science Engineering at UNI, Nicaragua. I'm expecting to graduate in 2022.
-  - 🚀 I'm working on improving my project <a href = "https://github.com/jess232017/SensorTemperatura"> STC-UNI</a> which is a service to sell items and manage its inventory and it's <a href="https://tiendajs-admin.netlify.app/">Web Application</a>.
+  - 🚀 I'm working on improving my project <a href = "https://github.com/jess232017/Tienda-AdminMUI"> SJ STORE</a> which is a service to sell items and manage its inventory and it's <a href="https://tiendajs-admin.netlify.app/">Web Application</a>.
   - 📧 You can reach me at: jess232016@gmail.com
 
 <p>&nbsp;</p>
 
-## 👨🏻‍💻 My Languages/Tools:
-<div>
+## 👨🏻‍💻 Things I code with:
 <p align="center">
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="JAVA" width="57" height="55"/> 
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/> 
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5" width="57" height="55"/> 
-<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css3" width="57" height="55"/> 
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="57" height="55"/> 
-<p>&nbsp;</p>
-<p align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/> 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjvwxd-b25523cb-c1c0-4716-8e55-3efdc015abef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGp2d3hkLWIyNTUyM2NiLWMxYzAtNDcxNi04ZTU1LTNlZmRjMDE1YWJlZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.78tZSYZMHR4zWvx9nAu-JvXy-nPKCwMmxdBePKEvB08" alt="vs" width="48" height="48"/> 
-<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" width="48" height="48"/> 
-<img src="https://digibuc.com/cursos/wp-content/uploads/2019/06/3420e571b3d7a4a348d8fad91e3bfda4.png" alt="JQuery" width="48" height="48"/> 
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width="48" height="48"/> 
-  
-</div>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+</p>
 
 <p>&nbsp;</p>
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = "mailto:jess232016@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/jess232017><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/jesús-enmanuel-hernández-gonzález-b02788196/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://www.facebook.com/jesem.hernandez.90/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href = https://www.instagram.com/jensen_23h/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
+   <a href="mailto:jess232016@gmail.com" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
+   <a href="https://github.com/jess232017" target="_blank">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+   </a>
+   <a href="https://www.linkedin.com/in/jesús-enmanuel-hernández-gonzález-b02788196" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a> 
+</p>
 
 <p>&nbsp;</p>
 
