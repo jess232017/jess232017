@@ -1,6 +1,6 @@
 <!--**jess232017/jess232017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1 align="center">Hi 👋, I'm Jesús Enmanuel Hernández González</h1>
+<h1 align="center">Hi there! 👋, I'm Jesús Enmanuel Hernández González</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
 
 <p>&nbsp;</p>
@@ -13,7 +13,31 @@
 
 <p>&nbsp;</p>
 
-## 👨🏻‍💻 Things I code with:
+## 👨🏻‍💻 What are my skill sets?
+- ### 🗄️ Backend:
+
+   - Language/Platform: JavaScript • TypeScript • Node.js • C# • PHP
+   - Framework: Express.js • Asp.net Core
+   - Databases: MySQL • MS SQL Server • MariaDB • MongoDB
+   - System Architecture: Monolithic
+   - Protocol: REST • Web Socket • GraphQL
+
+- ### 🖥 Frontend:
+
+   - Language: JavaScript • TypeScript
+   - Framework/Library: React.js • Next.js
+   - UI Toolkit: Ant Design • MUI
+   - Utils: Tailwind • Modular CSS • SCSS
+
+- ### 🎡 Ecosystem:
+
+   - Containerization: GitHub Codespaces
+   - Version Control: Git • GitHub
+   - CI/CD: Github Actions
+   - Project Management: Jira • GitHub Projects
+
+<br/>
+
 <p align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -54,9 +78,6 @@
    <a href="mailto:jess232016@gmail.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
-   <a href="https://github.com/jess232017" target="_blank">
-      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-   </a>
    <a href="https://www.linkedin.com/in/jesús-enmanuel-hernández-gonzález-b02788196" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a> 
@@ -72,16 +93,4 @@
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jess232017&layout=compact&theme=gruvbox" /></a>
   
 <p>&nbsp;</p>
-
-## 🚀 My Projects:
-<p align="center">
-<a href="https://github.com/jess232017/SensorTemperatura">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jess232017&repo=SensorTemperatura&theme=gruvbox" /></a>
-<a href="https://github.com/jess232017/Tienda-AdminMUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jess232017&repo=Tienda-AdminMUI&theme=gruvbox" /></a>
-<a href="https://github.com/jess232017/Gestor-de-Consumo-Eletrico">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jess232017&repo=Gestor-de-Consumo-Eletrico&theme=gruvbox" /></a>
-<a href="https://github.com/jess232017/Control-Inventario-y-Ventas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jess232017&repo=Control-Inventario-y-Ventas&theme=gruvbox" /></a>
-
   ---
