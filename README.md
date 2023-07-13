@@ -8,7 +8,6 @@
 ## 📚 About Me:
 <a href="https://github.com/jess232017/"><img align="right" width="310" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
    - 🎓 I'm studying Computer Science Engineering at UNI, Nicaragua. I'm expecting to graduate in 2023.
-  - 🚀 I'm working on improving my project <a href = "https://github.com/jess232017/Tienda-AdminMUI"> SJ STORE</a> which is a service to sell items, manage its inventory and it's <a href="https://tiendajs-admin.netlify.app/">Web Application</a>.
   - 📧 You can reach me at: jess232016@gmail.com
 
 <p>&nbsp;</p>
