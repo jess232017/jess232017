@@ -7,7 +7,7 @@
 
 ## 📚 About Me:
 <a href="https://github.com/jess232017/"><img align="right" width="310" height="200" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
-   - 🎓 I'm studying Computer Science Engineering at UNI, Nicaragua. I'm expecting to graduate in 2023.
+   - 🎓 I have a degree in Computer Science Engineering from UNI, Nicaragua.
   - 📧 You can reach me at: jess232016@gmail.com
 
 <p>&nbsp;</p>
